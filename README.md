@@ -1,6 +1,6 @@
 # Python-stores-API
 
- This is an API returns and creates new stores, then appends to a master Stores list.
+ This is an API that returns and creates new stores. Those stores are then appended to a master Stores list.
 * **URL**
 
   <localhost:5000/store>
